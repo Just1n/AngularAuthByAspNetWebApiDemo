@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularAuthDemo.Api", "AngularAuthDemo.Api\AngularAuthDemo.Api.csproj", "{D6863757-EEE0-4A4C-9EE8-954E611738F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularAuthDemo.Web", "AngularAuthDemo.Web\AngularAuthDemo.Web.csproj", "{CC5D4B02-93EF-40E0-BB79-2528056506AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6863757-EEE0-4A4C-9EE8-954E611738F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6863757-EEE0-4A4C-9EE8-954E611738F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6863757-EEE0-4A4C-9EE8-954E611738F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6863757-EEE0-4A4C-9EE8-954E611738F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5D4B02-93EF-40E0-BB79-2528056506AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5D4B02-93EF-40E0-BB79-2528056506AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5D4B02-93EF-40E0-BB79-2528056506AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5D4B02-93EF-40E0-BB79-2528056506AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
